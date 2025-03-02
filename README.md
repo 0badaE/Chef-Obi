@@ -3,6 +3,7 @@
 
 AI Chef is a web application that helps users generate recipes based on the ingredients they have at home. Built with <b>React 19</b>, this project showcases modern React features like <b>state management</b>, <b>conditional rendering</b>, <b>event listeners</b>, and the <b>new forms mechanic.</b> It’s a perfect example of how to build a dynamic and user-friendly app with React.
 
+** Not mobile friendly for the time being **
 <h2>Features ✨</h2>
 Ingredient Input: Add <b>at least 4 ingredients</b> you have at home to create a delicious recipe!
 
