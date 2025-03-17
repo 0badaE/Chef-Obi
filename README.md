@@ -1,7 +1,7 @@
 <h1> Chef Obi </h1>
 <p> Link: https://fabulous-genie-bef288.netlify.app/ </p>
 
-Chef Obi is a web application that helps users generate recipes based on the ingredients they have at home. Built with <b>React 19</b>, this project showcases modern React features like <b>state management</b>, <b>conditional rendering</b>, <b>event listeners</b>, and the <b>new forms mechanic.</b> It’s a perfect example of how to build a dynamic and user-friendly app with React.
+Chef Obi is a web application that helps users generate recipes based on the ingredients they have at home. Built with <b>React 19</b>, this project showcases modern React features like <b>state management</b>, <b>conditional rendering</b>, <b>event listeners</b>, and the <b>new forms mechanic.</b>
 
  *** NOT MOBILE FRIENDLY <b>FOR THE TIME BEING</b> - WORKS WELL IN LANDSCAPE MODE***
 <h2>Features ✨</h2>
