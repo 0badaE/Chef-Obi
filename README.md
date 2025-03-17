@@ -27,8 +27,8 @@ Ingredient Input: Add <b>at least 4 ingredients</b> you have at home to create a
 This project uses Hugging Face's MistralAI/Mixtral-8x7B-Instruct-v0.1 model for recipe generation. Integrating AI into the app was a challenging but rewarding experience, involving:
 
 <ol>
-    <li><b>Research:</b>: Understanding how to interact with Hugging Face's API.</li>
-    <li><b>Trial and Error: </b>: Experiment with different prompts and parameters to get the best results.</li>
+    <li><b>Research:</b> Understanding how to interact with Hugging Face's API.</li>
+    <li><b>Trial and Error: </b> Experiment with different prompts and parameters to get the best results.</li>
     <li><b>Troubleshooting and Debugging</b>: Spent significant time researching and resolving issues using AI-powered tools, Stack Overflow, YouTube tutorials, and official documentation to overcome challenges in integrating the Hugging Face API and optimizing the AI model's performance.</li>
 </ol>
 
