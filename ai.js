@@ -1,4 +1,3 @@
-import Anthropic from "@anthropic-ai/sdk"
 import { HfInference } from '@huggingface/inference'
 
 const SYSTEM_PROMPT = `
